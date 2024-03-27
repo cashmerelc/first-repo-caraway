@@ -22,3 +22,6 @@ Today we are going to learn GitHub and Markdown. In the afternoon we will setup 
 
 ### Add image from repo
 ![Image from repo](./beach.jpeg)
+
+### Add Code
+This is an example of what code would look like: ```var name = "Derek";```

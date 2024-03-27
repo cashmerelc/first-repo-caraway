@@ -23,6 +23,9 @@ Today we are going to learn GitHub and Markdown. In the afternoon we will setup 
 ### Add image from repo
 ![Image from repo](./beach.jpeg)
 
+### Add image from folder in repo
+![Image from repo folder](./images/random1.jpeg)
+
 ### Add Inline Code Block
 This is an example of what code would look like: `let name = "Derek";`
 

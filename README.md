@@ -16,3 +16,6 @@ Today we are going to learn GitHub and Markdown. In the afternoon we will setup 
 
 ### Link a page
 [Google](http://www.google.com)
+
+### Add image from web
+![Some pizza](https://lh5.googleusercontent.com/p/AF1QipMCOj4mqwXQxxJ1oMfwgLP_ISYTRf22cnxL1A8P=w408-h510-k-no)

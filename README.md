@@ -13,3 +13,6 @@ Today we are going to learn GitHub and Markdown. In the afternoon we will setup 
 1. Item 1
 2. Item 2
 3. Item 3
+
+### Link a page
+[Google](http://www.google.com)
